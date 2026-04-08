@@ -16,4 +16,4 @@ echo "deb [arch=amd64 signed-by=/etc/apt/keyrings/stormstore.gpg] https://aciert
 # 4. Actualizar APT
 sudo apt update
 
-echo "✅ Repo StormOS (amd64) agregado. Ahora puedes instalar paquetes con: sudo apt install nombre-paquete"
+echo "✅ Repo StormStore (amd64) agregado. Ahora puedes instalar paquetes con: sudo apt install nombre-paquete"
