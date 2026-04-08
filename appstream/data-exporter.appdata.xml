@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>data-exporter.desktop</id>
+  <name>data-exporter</name>
+  <summary>Aplicación data-exporter</summary>
+  <description>Instala data-exporter desde StormStore Repo.</description>
+  <launchable type="desktop-id">data-exporter.desktop</launchable>
+  <provides>
+    <binary>data-exporter</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

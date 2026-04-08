@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>fusionarenalauncher_deb.desktop</id>
+  <name>fusionarenalauncher_deb</name>
+  <summary>Aplicación fusionarenalauncher_deb</summary>
+  <description>Instala fusionarenalauncher_deb desde StormStore Repo.</description>
+  <launchable type="desktop-id">fusionarenalauncher_deb.desktop</launchable>
+  <provides>
+    <binary>fusionarenalauncher_deb</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

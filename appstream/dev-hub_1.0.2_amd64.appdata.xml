@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>dev-hub_1.0.2_amd64.desktop</id>
+  <name>dev-hub_1.0.2_amd64</name>
+  <summary>Aplicación dev-hub_1.0.2_amd64</summary>
+  <description>Instala dev-hub_1.0.2_amd64 desde StormStore Repo.</description>
+  <launchable type="desktop-id">dev-hub_1.0.2_amd64.desktop</launchable>
+  <provides>
+    <binary>dev-hub_1.0.2_amd64</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

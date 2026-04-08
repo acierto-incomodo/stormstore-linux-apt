@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>cardinal-ai-dualmodel-app.desktop</id>
+  <name>cardinal-ai-dualmodel-app</name>
+  <summary>Aplicación cardinal-ai-dualmodel-app</summary>
+  <description>Instala cardinal-ai-dualmodel-app desde StormStore Repo.</description>
+  <launchable type="desktop-id">cardinal-ai-dualmodel-app.desktop</launchable>
+  <provides>
+    <binary>cardinal-ai-dualmodel-app</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

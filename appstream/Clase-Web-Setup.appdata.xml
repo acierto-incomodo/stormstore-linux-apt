@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>Clase-Web-Setup.desktop</id>
+  <name>Clase-Web-Setup</name>
+  <summary>Aplicación Clase-Web-Setup</summary>
+  <description>Instala Clase-Web-Setup desde StormStore Repo.</description>
+  <launchable type="desktop-id">Clase-Web-Setup.desktop</launchable>
+  <provides>
+    <binary>Clase-Web-Setup</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

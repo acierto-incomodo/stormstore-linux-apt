@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>whatsapp-web.desktop</id>
+  <name>whatsapp-web</name>
+  <summary>Aplicación whatsapp-web</summary>
+  <description>Instala whatsapp-web desde StormStore Repo.</description>
+  <launchable type="desktop-id">whatsapp-web.desktop</launchable>
+  <provides>
+    <binary>whatsapp-web</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

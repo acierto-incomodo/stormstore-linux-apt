@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>StormStore-Linux.desktop</id>
+  <name>StormStore-Linux</name>
+  <summary>Aplicación StormStore-Linux</summary>
+  <description>Instala StormStore-Linux desde StormStore Repo.</description>
+  <launchable type="desktop-id">StormStore-Linux.desktop</launchable>
+  <provides>
+    <binary>StormStore-Linux</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

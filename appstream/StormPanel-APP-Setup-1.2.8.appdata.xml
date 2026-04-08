@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>StormPanel-APP-Setup-1.2.8.desktop</id>
+  <name>StormPanel-APP-Setup-1.2.8</name>
+  <summary>Aplicación StormPanel-APP-Setup-1.2.8</summary>
+  <description>Instala StormPanel-APP-Setup-1.2.8 desde StormStore Repo.</description>
+  <launchable type="desktop-id">StormPanel-APP-Setup-1.2.8.desktop</launchable>
+  <provides>
+    <binary>StormPanel-APP-Setup-1.2.8</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

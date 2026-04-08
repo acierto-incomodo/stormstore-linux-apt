@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>CardinalAI-Local-Setup.desktop</id>
+  <name>CardinalAI-Local-Setup</name>
+  <summary>Aplicación CardinalAI-Local-Setup</summary>
+  <description>Instala CardinalAI-Local-Setup desde StormStore Repo.</description>
+  <launchable type="desktop-id">CardinalAI-Local-Setup.desktop</launchable>
+  <provides>
+    <binary>CardinalAI-Local-Setup</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

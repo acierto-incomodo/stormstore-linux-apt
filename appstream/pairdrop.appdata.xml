@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>pairdrop.desktop</id>
+  <name>pairdrop</name>
+  <summary>Aplicación pairdrop</summary>
+  <description>Instala pairdrop desde StormStore Repo.</description>
+  <launchable type="desktop-id">pairdrop.desktop</launchable>
+  <provides>
+    <binary>pairdrop</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

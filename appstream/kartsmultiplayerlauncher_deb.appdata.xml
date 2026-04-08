@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>kartsmultiplayerlauncher_deb.desktop</id>
+  <name>kartsmultiplayerlauncher_deb</name>
+  <summary>Aplicación kartsmultiplayerlauncher_deb</summary>
+  <description>Instala kartsmultiplayerlauncher_deb desde StormStore Repo.</description>
+  <launchable type="desktop-id">kartsmultiplayerlauncher_deb.desktop</launchable>
+  <provides>
+    <binary>kartsmultiplayerlauncher_deb</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>

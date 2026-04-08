@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>CardinalAI-1.0.3-amd64.desktop</id>
+  <name>CardinalAI-1.0.3-amd64</name>
+  <summary>Aplicación CardinalAI-1.0.3-amd64</summary>
+  <description>Instala CardinalAI-1.0.3-amd64 desde StormStore Repo.</description>
+  <launchable type="desktop-id">CardinalAI-1.0.3-amd64.desktop</launchable>
+  <provides>
+    <binary>CardinalAI-1.0.3-amd64</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>
