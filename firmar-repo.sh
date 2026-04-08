@@ -11,8 +11,8 @@ if [ -z "$KEY_ID" ]; then
   gpg --batch --gen-key <<EOF
 Key-Type: RSA
 Key-Length: 2048
-Name-Real: StormOS Repo
-Name-Email: stormos@local
+Name-Real: StormStore Repo
+Name-Email: stormstore@local
 Expire-Date: 0
 %no-protection
 %commit

@@ -2,19 +2,19 @@
 
 set -e
 
-echo "🔹 Desinstalando StormOS Repo..."
+echo "🔹 Desinstalando StormStore Repo..."
 
 # 1. Eliminar archivo de lista del repo
-if [ -f /etc/apt/sources.list.d/stormos.list ]; then
-    sudo rm /etc/apt/sources.list.d/stormos.list
+if [ -f /etc/apt/sources.list.d/stormstore.list ]; then
+    sudo rm /etc/apt/sources.list.d/stormstore.list
     echo "✔️ Archivo de lista eliminado"
 else
     echo "⚠️ No se encontró el archivo de lista"
 fi
 
 # 2. Eliminar keyring
-if [ -f /etc/apt/keyrings/stormos.gpg ]; then
-    sudo rm /etc/apt/keyrings/stormos.gpg
+if [ -f /etc/apt/keyrings/stormstore.gpg ]; then
+    sudo rm /etc/apt/keyrings/stormstore.gpg
     echo "✔️ Keyring eliminado"
 else
     echo "⚠️ No se encontró el keyring"
@@ -23,4 +23,4 @@ fi
 # 3. Actualizar APT
 sudo apt update
 
-echo "✅ Repo StormOS desinstalado. Los paquetes instalados permanecen, puedes eliminarlos manualmente si quieres."
+echo "✅ Repo StormStore desinstalado. Los paquetes instalados permanecen, puedes eliminarlos manualmente si quieres."
