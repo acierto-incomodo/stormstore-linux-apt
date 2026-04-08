@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>StormOS Repo</title>
+<style>
+    body { font-family: Arial, sans-serif; background: #121212; color: #f0f0f0; text-align: center; padding: 50px; }
+    pre { background: #1e1e1e; padding: 20px; border-radius: 8px; display: inline-block; cursor: pointer; }
+    pre:hover { background: #2a2a2a; }
+</style>
+</head>
+<body>
+<h1>StormOS Repo</h1>
+<p>Haz clic en el comando para copiarlo y agregar nuestro repo a tu sistema:</p>
+<pre id="copyCmd">
+curl -fsSL https://raw.githubusercontent.com/acierto-incomodo/stormstore-linux-apt/main/install-repo.sh | sudo bash
+</pre>
+<p>(Después de esto puedes instalar tus paquetes con <code>sudo apt install nombre-paquete</code>)</p>
+
+<script>
+document.getElementById('copyCmd').onclick = function() {
+    navigator.clipboard.writeText(this.textContent).then(() => {
+        alert('Comando copiado al portapapeles ✅');
+    });
+};
+</script>
+</body>
+</html>

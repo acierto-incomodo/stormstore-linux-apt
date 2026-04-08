@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Date: Wed, 08 Apr 2026 13:58:50 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 45cd1f8adeccba4384a92b1c563214e6 9552 main/binary-amd64/Packages
+ 0e7b08fe554778477e6c411d1956e49f 2677 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ ab375898bb111959cdf7f2fa006f816fb22f128c 9552 main/binary-amd64/Packages
+ cf9efc48000d21aa1088817066bc7666bb462b86 2677 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 115fd7a9e892ff7118a8e3b6b6f569f66be9ec122959fa6cdc0fe9da56609193 9552 main/binary-amd64/Packages
+ b14c83171e972a1e81c1c88529064073971207f83a7d2f3a060579833156ce68 2677 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEO347bw3MytEoOjh7rn5ikSuTdEMFAmnWXxoACgkQrn5ikSuT
+dEPKeAf+PnpDBZYkuwou1KAKDu0kCwplMtcsBylRCTOaUw+iRcOlVdrNgcTvkrgF
+O22zZzZALUQNTyRV/jDqJw2ZrvBrQJ9I9HrxzP7+7QHPrL/R7Zq85T+BNuYKrXgN
+cLXnKE5+v+ZZZs4tdHJVGljuvzIUBp0G2u62+jNRVopNByFVO2KDX7fZk6BkytKR
+wostWDVz3u/A+zeh6+2BNJnGDUDo9KmKFP8PMCitcZyKXt7G76PNdeAymkD9a+xR
+PgUJ3hbXmNJhA9ZJKNQCrq2xB+BZI6v9L4v96owhQFmlfKuq1SIn+w1B97ufpLlN
+X5a7f5VZHsROvakpkDD46fo5gJIyEQ==
+=UlUZ
+-----END PGP SIGNATURE-----
