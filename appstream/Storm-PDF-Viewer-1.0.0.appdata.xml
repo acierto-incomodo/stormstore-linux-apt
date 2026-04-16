@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>Storm-PDF-Viewer-1.0.0.desktop</id>
+  <name>Storm-PDF-Viewer-1.0.0</name>
+  <summary>Aplicación Storm-PDF-Viewer-1.0.0</summary>
+  <description>Instala Storm-PDF-Viewer-1.0.0 desde StormStore Repo.</description>
+  <launchable type="desktop-id">Storm-PDF-Viewer-1.0.0.desktop</launchable>
+  <provides>
+    <binary>Storm-PDF-Viewer-1.0.0</binary>
+  </provides>
+  <url type="homepage">https://stormstore.vercel.app/</url>
+</component>
